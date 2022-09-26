@@ -3,7 +3,7 @@
 <p><strong>Links</strong></p>
 Live Site URL: https://cwbads22.github.io/profilecard/index.html
 <br>
-FrontEnd Mentor: 
+FrontEnd Mentor: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
 <br>
 <br>
 <p><strong>My process</strong></p>
