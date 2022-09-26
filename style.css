@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: hsl(185, 75%, 39%);
+    background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat;
+    background-position: left calc(50% - 520px) top calc(50% - 370px), left calc(50% + 460px) top calc(50% + 500px);
+}
+
+main {
+    width: 21.875rem;
+    height: 23.4375rem;
+    border-radius: 1rem;
+    text-align: center;
+    background-color: white;
+    background-image: url(./images/bg-pattern-card.svg);
+    background-repeat: no-repeat;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+img {
+    height: 6.875rem;
+    width: 6.875rem;
+    border-radius: 50%;
+    padding: 0.3rem;
+    background-color: white;
+    margin: 5.5rem 0 0.9rem;
+    cursor: pointer;
+}
+
+img:hover {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    transition: 0.5s ease-in;
+}
+
+h1 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: hsl(229, 23%, 23%);
+    
+}
+
+p {
+    font-size: .625rem;
+    color: hsl(227, 10%, 46%);
+    letter-spacing: .0625rem;
+}
+
+h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-top: 0.25rem;
+    color: hsl(229, 23%, 23%);
+}
+
+.ageUser {
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: hsl(227, 10%, 46%);
+}
+
+.place {
+    padding-top: .3125rem;
+    font-size: .875rem;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}
+
+section {
+    padding-top: 25px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foot {
+    padding-top: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: .1875rem;
+}
+

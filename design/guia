@@ -1,0 +1,28 @@
+medidas geral:
+
+width: 350px
+height: 375px
+---------------------------------------
+
+header (blue img): 140px 
+---------------------------------------
+
+img height from top: 140px (37,3%)
+img center alignment: 125 (50%)
+---------------------------------------
+
+infos field: 235px
+
+name/city div: 145px
+stats div: 90px
+
+***hr: 285px (from top)
+---------------------------------------
+
+card structure:
+
+header: 140px
+namecity: 145px
+stats: 90px
+
+
