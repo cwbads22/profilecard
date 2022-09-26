@@ -1,7 +1,7 @@
 <h2>Third challenge from FrontEnd Mentor - Newbie challenges.</h2>
 
 <p><strong>Links</strong></p>
-Live Site URL: 
+Live Site URL: https://cwbads22.github.io/profilecard/index.html
 <br>
 FrontEnd Mentor: 
 <br>
